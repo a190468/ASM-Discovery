@@ -62,8 +62,12 @@ Com a sua própria chave da API da Anthropic, o app pode analisar um aparelho em
 
 ## Documentação
 
-| Documento | PDF | Word |
-|---|---|---|
+| Documento | Arquivo |
+|---|---|
+| **Manual do usuário** (v0.8.1): como usar cada tela, privacidade, perguntas frequentes e glossário | [PDF](docs/Manual-do-usuario-v0.8.1.pdf) |
+| **Guia do técnico** (v0.8.1): roteiro de verificação da rede em 6 etapas e os 10 critérios de "rede OK" | [PDF](docs/Guia-do-tecnico-v0.8.1.pdf) |
+
+---|---|---|
 | **Manual do usuário** (v0.8.1): como usar cada tela, privacidade, perguntas frequentes e glossário | [PDF](docs/Manual-do-usuario-v0.8.1.pdf) | [DOCX](docs/Manual-do-usuario-v0.8.1.docx) |
 | **Guia do técnico** (v0.8.1): roteiro de verificação da rede em 6 etapas e os 10 critérios de "rede OK" | [PDF](docs/Guia-do-tecnico-v0.8.1.pdf) | [DOCX](docs/Guia-do-tecnico-v0.8.1.docx) |
 
