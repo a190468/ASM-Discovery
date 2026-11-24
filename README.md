@@ -1,5 +1,9 @@
 # ASM - Discovery
 
+[![Assistir ao vídeo de demonstração do ASM - Discovery](media/video-capa.jpg)](media/ASM-Discovery-demo-v0.8.1.mp4)
+
+**▶ [Assistir ao vídeo de demonstração (2 min 19 s)](media/ASM-Discovery-demo-v0.8.1.mp4)** · *telas ilustrativas da versão 0.8.1*
+
 App gratuito para macOS que **descobre os aparelhos ligados à rede local**, acompanha o que muda neles e **aponta riscos de segurança com explicações diretas**.
 
 Feito para técnicos de TI e suporte que não são especialistas em segurança: quem cuida da rede de casa, de um escritório pequeno ou de um cliente e quer saber **o que está conectado, o que está exposto e o que fazer a respeito**.
